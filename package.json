@@ -1,0 +1,23 @@
+{
+  "name": "veedor-ci-smoketest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogradev/veedor-ci-smoketest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogradev/veedor-ci-smoketest/issues"
+  },
+  "homepage": "https://github.com/rogradev/veedor-ci-smoketest#readme",
+  "devDependencies": {
+    "vitest": "^4.1.10"
+  }
+}
