@@ -3,9 +3,6 @@ name: Veedor CI
 on:
   pull_request:
 
-permissions:
-  pull-requests: write
-
 jobs:
   scan:
     runs-on: ubuntu-latest
